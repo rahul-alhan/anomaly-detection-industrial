@@ -2,7 +2,7 @@
 
 Hybrid anomaly detection on industrial weld-sensor time-series. Combines a **statistical model (Isolation Forest)** with a **deterministic rule engine** to surface anomalies that pure threshold rules miss — and to provide explainable reasons engineers will actually trust.
 
-> Mirrors a 5-week PoC at Algoworks (client: CRC Evans) that surfaced ~6% failure rate not captured by existing threshold rules.
+> Mirrors a 5-week PoC from a prior industrial client engagement that surfaced ~6% failure rate not captured by existing threshold rules.
 
 ---
 
